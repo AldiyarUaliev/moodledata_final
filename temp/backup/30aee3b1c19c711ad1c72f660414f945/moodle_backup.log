@@ -1,0 +1,38 @@
+[Чт 20 май 2021 12:12:56] [info] instantiating backup controller 6ee17a05f0e2703e669be55c1460907b
+[Чт 20 май 2021 12:12:56] [debug] setting controller status to 100
+[Чт 20 май 2021 12:12:56] [debug] loading controller plan
+[Чт 20 май 2021 12:12:56] [debug] setting controller status to 300
+[Чт 20 май 2021 12:12:56] [debug] applying plan defaults
+[Чт 20 май 2021 12:12:56] [debug] setting controller status to 400
+[Чт 20 май 2021 12:12:56] [debug] setting file inclusion to 
+[Чт 20 май 2021 12:12:56] [info] checking plan security
+[Чт 20 май 2021 12:12:56] [debug] setting controller status to 500
+[Чт 20 май 2021 12:12:56] [info] checking plan security
+[Чт 20 май 2021 12:12:56] [info] checking plan security
+[Чт 20 май 2021 12:12:56] [info] checking plan security
+[Чт 20 май 2021 12:12:56] [debug] saving controller to db
+[Чт 20 май 2021 12:12:56] [debug] calculating controller checksum 4ca7c5530ce53a3d7e23f98fc1a25235
+[Чт 20 май 2021 12:13:10] [debug] loading controller from db
+[Чт 20 май 2021 12:13:10] [info] checking plan security
+[Чт 20 май 2021 12:13:10] [info] checking plan security
+[Чт 20 май 2021 12:13:10] [info] checking plan security
+[Чт 20 май 2021 12:13:10] [debug] saving controller to db
+[Чт 20 май 2021 12:13:10] [debug] calculating controller checksum 4ca7c5530ce53a3d7e23f98fc1a25235
+[Чт 20 май 2021 12:13:15] [debug] loading controller from db
+[Чт 20 май 2021 12:13:15] [info] checking plan security
+[Чт 20 май 2021 12:13:15] [info] checking plan security
+[Чт 20 май 2021 12:13:15] [info] checking plan security
+[Чт 20 май 2021 12:13:15] [debug] saving controller to db
+[Чт 20 май 2021 12:13:15] [debug] calculating controller checksum 4ca7c5530ce53a3d7e23f98fc1a25235
+[Чт 20 май 2021 12:13:25] [debug] loading controller from db
+[Чт 20 май 2021 12:13:25] [info] checking plan security
+[Чт 20 май 2021 12:13:25] [info] checking plan security
+[Чт 20 май 2021 12:13:25] [debug] setting controller status to 700
+[Чт 20 май 2021 12:13:25] [debug] saving controller to db
+[Чт 20 май 2021 12:13:25] [debug] calculating controller checksum 85deee4475552ca823188f2992057189
+[Чт 20 май 2021 12:13:25] [debug] loading controller from db
+[Чт 20 май 2021 12:13:25] [debug] setting file inclusion to 1
+[Чт 20 май 2021 12:13:25] [debug] setting controller status to 800
+[Чт 20 май 2021 12:13:25] [debug] saving controller to db
+[Чт 20 май 2021 12:13:25] [debug] calculating controller checksum 6e48499860bb6a597579bcda97dc4c80
+[Чт 20 май 2021 12:13:25] [debug] loading controller from db

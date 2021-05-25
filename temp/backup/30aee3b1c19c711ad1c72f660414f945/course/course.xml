@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="3" contextid="30">
+  <shortname>ҰБТ</shortname>
+  <fullname>ҰБТ</fullname>
+  <idnumber>11</idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;Описание&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1617818400</startdate>
+  <enddate>1649440800</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1617742280</timecreated>
+  <timemodified>1617742280</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <plugin_local_xp_course>
+  </plugin_local_xp_course>
+  <category id="2">
+    <name>ҰБТ</name>
+    <description>&lt;p dir="ltr" style="text-align: left;"&gt;ҰБТ&lt;/p&gt;</description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

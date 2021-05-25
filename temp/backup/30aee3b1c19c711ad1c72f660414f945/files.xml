@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="643">
+    <contenthash>353d2fe6f12fc4e936ed72d67d6718a9f66a4ced</contenthash>
+    <contextid>30</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>BK Shots.jpg</filename>
+    <userid>2</userid>
+    <filesize>1387</filesize>
+    <mimetype>image/jpeg</mimetype>
+    <status>0</status>
+    <timecreated>1618248348</timecreated>
+    <timemodified>1618248427</timemodified>
+    <source>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BK_Shots.jpg/40px-BK_Shots.jpg</source>
+    <author>Ubcule</author>
+    <license>cc-sa</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="644">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>30</contextid>
+    <component>question</component>
+    <filearea>questiontext</filearea>
+    <itemid>8</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>2</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1618248350</timecreated>
+    <timemodified>1618248427</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

@@ -1,0 +1,8 @@
+s:710:"<div class="small mb-0"><h5>Language menu:</h5><ul class="list-unstyled"><li>Go to: Dashboard → Site administration → Language → Language settings</li><li>Check: Display language menu</li><li>Save</li></ul></div>
+
+<p><img src="http://localhost/kyran_final/theme/space/doc/topbar-lang.png" class="img-fluid rounded mt-3" alt="topbar-lang.png" /><br /><br /></p>
+
+<div class="small mb-0"><h5>Search box:</h5><ul class="list-unstyled"><li>Go to: Dashboard → Site administration → Advanced features</li><li>Check Enable global search</li> <li>Save</li></ul></div>
+
+<p><img src="http://localhost/kyran_final/theme/space/doc/topbar-search.png" class="img-fluid rounded mt-3" alt="topbar-search.png" /></p>
+";

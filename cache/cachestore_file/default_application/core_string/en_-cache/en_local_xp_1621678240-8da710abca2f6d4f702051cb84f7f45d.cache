@@ -1,0 +1,108 @@
+a:139:{s:17:"activitycompleted";s:18:"Activity completed";s:11:"afterimport";s:12:"After import";s:14:"anonymousgroup";s:12:"Another team";s:21:"anonymousiomadcompany";s:15:"Another company";s:24:"anonymousiomaddepartment";s:18:"Another department";s:10:"badgetheme";s:18:"Level badges theme";s:15:"badgetheme_help";s:59:"A badge theme defines the default appearance of the badges.";s:9:"categoryn";s:14:"Category: {$a}";s:19:"clicktoselectcourse";s:24:"Click to select a course";s:22:"clicktoselectgradeitem";s:28:"Click to select a grade item";s:14:"courseselector";s:15:"Course selector";s:10:"csvisempty";s:22:"The CSV file is empty.";s:7:"csvline";s:4:"Line";s:7:"csvfile";s:8:"CSV file";s:12:"csvfile_help";s:228:"The CSV file must contain the columns __user__ and __points__. The column __message__ is optional and can be used when notifications are enabled. Note that the __user__ column understands user IDs, email addresses and usernames.";s:17:"csvmissingcolumns";s:49:"The CSV is missing the following column(s): {$a}.";s:13:"currentpoints";s:14:"Current points";s:12:"currencysign";s:13:"Points symbol";s:17:"currencysign_help";s:295:"With this setting you can change the meaning of the points. It will be displayed next to the amount of points each user has as a substitute for the reference to _experience points_.
+
+For instance you could upload the image of a carrot for the users to be rewarded with carrots for their actions.";s:20:"currencysignformhelp";s:159:"The image uploaded here will be displayed next to the points as a substitute for the reference to experience points. The recommended image height is 18 pixels.";s:20:"displaygroupidentity";s:22:"Display teams identity";s:16:"enablecheatguard";s:18:"Enable cheat guard";s:21:"enablecheatguard_help";s:172:"The cheat guard prevents students from being rewarded once they reach certain limits.
+
+[More info](https://levelup.plus/docs/article/level-up-cheat-guard?ref=localxp_help)
+";s:18:"errorunknowncourse";s:21:"Error: unknown course";s:21:"errorunknowngradeitem";s:25:"Error: unknown grade item";s:16:"filtergradeitems";s:18:"Filter grade items";s:12:"keeplogsdesc";s:277:"The logs are playing an important role in the plugin. They are used for
+the cheat guard, for finding the recent rewards, and for some other things. Reducing the time for
+which the logs are kept can affect how points are distributed over time and should be dealt with carefully.";s:17:"gradeitemselector";s:19:"Grade item selector";s:15:"gradeitemtypeis";s:25:"The grade is a {$a} grade";s:13:"gradereceived";s:14:"Grade received";s:11:"gradesrules";s:12:"Grades rules";s:16:"gradesrules_help";s:887:"
+The rules below determine when students earn points for the grades they receive.
+
+Students will earn as many points as their grade.
+A grade of 5/10, and a grade of 5/100 will both award the student 5 points.
+When a student's grade changes multiple times, they will earn points equal to the maximum grade they have received.
+Points are never taken away from students, and negative grades are ignored.
+
+Example: Alice submits an assignment, and receives the mark of 40/100. In _Level up!_, Alice receives 40 points for her grade.
+Alice reattempts her assignment, but this time her grade is lowered to 25/100. Alice's points in _Level up!_ do not change.
+For her final attempt, Alice scores 60/100, she earns 20 additional points in _Level up!_, her total of points earned is 60.
+
+[More at _Level up!_ documentation](https://levelup.plus/docs/article/grade-based-rewards?ref=localxp_help)
+";s:14:"groupanonymity";s:9:"Anonymity";s:19:"groupanonymity_help";s:96:"This setting controls whether participants can see the names of the teams they do not belong to.";s:11:"groupladder";s:11:"Team ladder";s:15:"groupladdercols";s:14:"Ladder columns";s:20:"groupladdercols_help";s:825:"This setting determines which columns are displayed aside from the teams ranks and names.
+
+The __Points__ column displays the points of the team.
+This value may have been compensated depending on the _Ranking strategy_ chosen.
+
+The __Progress__ column displays the overall progression of the team towards all of its members reaching the ultimate level.
+In other words, the progress can only attain 100% when all team members are at the maximum level. Note that the number of
+points remaining, displayed next to the progress bar, may be confusing when teams are unbalanced and points not compensated
+as teams with more members will have more points remaining than others, even though their progressions may be similar.
+
+Press the CTRL or CMD key while clicking to select more than one column, or to unselect a selected column.";s:17:"groupladdersource";s:22:"Team up students using";s:22:"groupladdersource_help";s:427:"The team ladder displays a leaderboard of an aggregate of the students' points.
+The value you choose determines what _Level up!_ uses to group the students together.
+When set to _Nothing_ the team ladder will not be available.
+
+To limit the _Course groups_ that appear in the leaderboard, you may create a new grouping containing the relevant groups, and then set this grouping as the _Default grouping_ in the course settings.";s:9:"groupname";s:9:"Team name";s:12:"grouporderby";s:16:"Ranking strategy";s:17:"grouporderby_help";s:770:"Determines what is the basis for ranking the teams.
+
+When set to __Points__, the teams are ranked based on the sum of the points of its members.
+
+When set to __Points (with compensation)__, the points of teams with less members than others are compensated using their team's average per member. For example, if a team lacks 3 members, they receive points equal to three times their average per member. This creates a balanced ranking where all teams have equal chances.
+
+When set to __Progress__, the teams are ranked based on their overall progression towards all of its members reaching the ultimate level, without compensating their points. You may want to use _Progress_ when the teams are unbalanced, for example when some teams have a lot more members than others.";s:11:"grouppoints";s:6:"Points";s:27:"grouppointswithcompensation";s:26:"Points (with compensation)";s:23:"groupsourcecoursegroups";s:13:"Course groups";s:18:"groupsourcecohorts";s:7:"Cohorts";s:25:"groupsourceiomadcompanies";s:15:"IOMAD companies";s:27:"groupsourceiomaddepartments";s:17:"IOMAD departments";s:15:"groupsourcenone";s:31:"Nothing, the ladder is disabled";s:17:"hidegroupidentity";s:19:"Hide teams identity";s:18:"importcsvfile_help";s:0:"";s:14:"importcsvintro";s:367:"Use the form below to import points from a CSV file. The import may be used to _increase_ students' points, or to override them with the provided value. Note that the import __does not__ use the same format as the exported report. The required format is described in the [documentation]({$a->docsurl}), additionally a sample file is available [here]({$a->sampleurl}).";s:13:"importpreview";s:14:"Import preview";s:18:"importpreviewintro";s:154:"Here is a preview showcasing the first {$a} records out of all of those to be imported. Please review and confirm when you are ready to import everything.";s:12:"importpoints";s:13:"Import points";s:18:"importpointsaction";s:20:"Points import action";s:23:"importpointsaction_help";s:486:"Determines what to do with the points found in the CSV file.
+
+**Set as total**
+
+The points will override the current points of the student, making it their new total. Users will not be notified, and there won't be any entries in the logs.
+
+**Increase**
+
+The points represent the amount of points to award the student. When enabled, a notification containing the optional _message_ from the CSV file will be sent to the recipients. A _Manual award_ entry will also be added to the logs.
+";s:13:"importresults";s:14:"Import results";s:18:"importresultsintro";s:157:"Successfully **imported {$a->successful} entries** out of a total of **{$a->total}**. If some entries could not be imported, details will be displayed below.";s:14:"importsettings";s:15:"Import settings";s:10:"increaseby";s:11:"Increase by";s:15:"increaseby_help";s:42:"The amount of points to award the student.";s:11:"increasemsg";s:16:"Optional message";s:16:"increasemsg_help";s:60:"When a message is provided, it is added to the notification.";s:29:"invalidpointscannotbenegative";s:26:"Points cannot be negative.";s:11:"levelbadges";s:21:"Level badges override";s:16:"levelbadges_help";s:66:"Upload images to override the designs provided by the badge theme.";s:7:"levelup";s:9:"Level up!";s:18:"manualawardsubject";s:37:"You were awarded {$a->points} points!";s:23:"manualawardnotification";s:55:"You were awarded {$a->points} points by {$a->fullname}.";s:33:"manualawardnotificationwithcourse";s:86:"You were awarded {$a->points} points by {$a->fullname} in the course {$a->coursename}.";s:15:"manuallyawarded";s:16:"Manually awarded";s:4:"maxn";s:9:"Max: {$a}";s:16:"maxpointspertime";s:25:"Max. points in time frame";s:21:"maxpointspertime_help";s:141:"The maxmimum number of points that can be earned during the time frame given. When this value is empty, or equals to zero, it does not apply.";s:27:"messageprovider:manualaward";s:33:"Level up! points manually awarded";s:24:"missingpermssionsmessage";s:64:"You do not have the required permissions to access this content.";s:7:"mylevel";s:8:"My level";s:14:"navgroupladder";s:11:"Team ladder";s:10:"pluginname";s:14:"Level up! Plus";s:6:"points";s:6:"Points";s:11:"previewmore";s:12:"Preview more";s:20:"privacy:metadata:log";s:22:"Stores a log of events";s:27:"privacy:metadata:log:points";s:32:"The points awarded for the event";s:30:"privacy:metadata:log:signature";s:15:"Some event data";s:25:"privacy:metadata:log:time";s:29:"The date at which it happened";s:25:"privacy:metadata:log:type";s:14:"The event type";s:27:"privacy:metadata:log:userid";s:30:"The user who gained the points";s:15:"progressbarmode";s:24:"Display progress towards";s:20:"progressbarmode_help";s:336:"
+When set to _The next level_, the progress bar displays the progress of the user towards the next level.
+
+When set to _The ultimate level_, the progress bar will indicate the percentage of progression towards the very last level that users can attain.
+
+In either case, the progress bar will remain full when the last level is attained.";s:20:"progressbarmodelevel";s:14:"The next level";s:22:"progressbarmodeoverall";s:18:"The ultimate level";s:22:"ruleactivitycompletion";s:19:"Activity completion";s:27:"ruleactivitycompletion_help";s:495:"
+This condition is met when an activity was just marked as complete, so long as the completion was not marked as failed.
+
+As per the standard Moodle activity completion settings, teachers have full control over the conditions
+needed to _complete_ an activity. Those can be individually set for each activity in the course and
+be based on a date, a grade, etc... It is also possible to allow students to manually mark the activities
+as complete.
+
+This condition will only reward the student once.";s:27:"ruleactivitycompletion_link";s:19:"Activity_completion";s:26:"ruleactivitycompletiondesc";s:50:"An activity or resource was successfully completed";s:26:"ruleactivitycompletioninfo";s:72:"This condition matches when a student completes an activity or resource.";s:10:"rulecmname";s:13:"Activity name";s:15:"rulecmname_help";s:308:"This condition is met when the event occurs in an activity that is named as specified.
+
+Notes:
+
+- The comparison is not case sensitive.
+- An empty value will never match.
+- Consider using **contains** when the activity name includes [multilang](https://docs.moodle.org/en/Multi-language_content_filter) tags.";s:14:"rulecmnamedesc";s:46:"The activity name {$a->compare} '{$a->value}'.";s:14:"rulecmnameinfo";s:81:"Specifies the name of the activities or resources in which the action must occur.";s:20:"rulecoursecompletion";s:17:"Course completion";s:25:"rulecoursecompletion_help";s:234:"This rule is met when a course is completed by a student.
+
+__Note:__ Students will not instantaneously receive their points, it takes a little while for Moodle to process course completions. In other words, this requires a _cron_ run.";s:25:"rulecoursecompletion_link";s:17:"Course_completion";s:24:"rulecoursecompletiondesc";s:22:"A course was completed";s:34:"rulecoursecompletioncoursemodedesc";s:24:"The course was completed";s:24:"rulecoursecompletioninfo";s:57:"This condition matches when a student completes a course.";s:10:"rulecourse";s:6:"Course";s:14:"rulecourseinfo";s:12:"Course rules";s:15:"rulecourse_help";s:206:"This condition is met when the event occurs in the course specified.
+
+It is only available when the plugin is used for the whole site. When the plugin is used per course, this condition becomes ineffective.";s:14:"rulecoursedesc";s:19:"The course is: {$a}";s:13:"rulegradeitem";s:19:"Specific grade item";s:18:"rulegradeitem_help";s:73:"This condition is met when a grade is given for the grade item specified.";s:17:"rulegradeitemdesc";s:39:"The grade item is '{$a->gradeitemname}'";s:27:"rulegradeitemdescwithcourse";s:62:"The grade item is: '{$a->gradeitemname}' in '{$a->coursename}'";s:17:"rulegradeiteminfo";s:71:"This condition matches for grades received for a particular grade item.";s:17:"rulegradeitemtype";s:10:"Grade type";s:22:"rulegradeitemtype_help";s:160:"This condition is met when the grade item is of the required type. When an activity type is selected, any grade originating from this activity type would match.";s:21:"rulegradeitemtypedesc";s:27:"The grade is a '{$a}' grade";s:21:"rulegradeitemtypeinfo";s:67:"This condition matches when the grade item is of the required type.";s:14:"ruleusergraded";s:14:"Grade received";s:19:"ruleusergraded_help";s:293:"This condition is met when:
+
+* The grade was received in an activity
+* The activity specified a passing grade
+* The grade met the passing grade
+* The grade is _not_ based on ratings (e.g. in forums)
+* The grade is point-based, not scale-based
+
+This condition will only reward the student once.";s:18:"ruleusergradeddesc";s:36:"The student received a passing grade";s:21:"sendawardnotification";s:23:"Send award notification";s:26:"sendawardnotification_help";s:177:"When enabled, the student will receive a notification that they were awarded points. The message will contain your name, the amount of points, and the name of the course if any.";s:22:"shortcode:xpteamladder";s:37:"Display a portion of the team ladder.";s:27:"shortcode:xpteamladder_help";s:987:"
+By default, a portion of the team ladder surrounding the current user will be displayed.
+
+```
+[xpteamladder]
+```
+
+To display the top 5 teams instead of the teams neighbouring those of the current user, set the parameter `top`. You can optionally set the number of teams to display by giving `top` a value, like so: `top=20`.
+
+```
+[xpteamladder top]
+[xpteamladder top=15]
+```
+
+A link to the full ladder will automatically be displayed below the table if there are more results to be displayed, if you do not want to display such link, add the argument `hidelink`.
+
+```
+[xpteamladder hidelink]
+```
+
+By default, the table does not include the progress column which displays the progress bar. If such column has been selected in the additional colums in the ladder's settings, you can use the argument `withprogress` to display it.
+
+```
+[xpteamladder withprogress]
+```
+
+Note that when the current user belongs to multiple teams, the plugin will use the one with the best rank as reference.
+";s:20:"unabletoidentifyuser";s:24:"Unable to identify user.";s:20:"unknowngradeitemtype";s:19:"Unknown type ({$a})";s:10:"uptoleveln";s:16:"Up to level {$a}";s:13:"themestandard";s:8:"Standard";s:27:"theyleftthefollowingmessage";s:32:"They left the following message:";s:16:"timeformaxpoints";s:26:"Time frame for max. points";s:21:"timeformaxpoints_help";s:102:"The time frame (in seconds) during which the user cannot receive more than a certain amount of points.";s:12:"visualsintro";s:55:"Customise the appearance of the levels, and the points.";s:17:"enablegroupladder";s:19:"Enable group ladder";s:22:"enablegroupladder_help";s:243:"When enabled, students can view a leaderboard of the course groups. The group points are computed from the points accrued by the members of each group. This currently only applies when the plugin is used per course, and not for the whole site.";s:9:"for2weeks";s:11:"For 2 weeks";s:10:"for3months";s:12:"For 3 months";}

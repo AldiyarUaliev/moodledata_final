@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="1">
+    <name>top</name>
+    <contextid>32</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210406205442+itcHyr</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="2">
+    <name>По умолчанию для ҰБТ таңдау пәні</name>
+    <contextid>32</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>4</contextinstanceid>
+    <info>Категория по умолчанию для общих вопросов в контексте «ҰБТ таңдау пәні».</info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210406205442+vZwUNg</stamp>
+    <parent>1</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="3">
+    <name>top</name>
+    <contextid>30</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>3</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210406205442+ddUx2j</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="4">
+    <name>По умолчанию для ҰБТ</name>
+    <contextid>30</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>3</contextinstanceid>
+    <info>Категория по умолчанию для общих вопросов в контексте «ҰБТ».</info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210406205442+H56567</stamp>
+    <parent>3</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="1">
+        <parent>0</parent>
+        <name>Математика</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Математикалык сурак анау мынау&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;Саламалейкум&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210406205949+9Ddgry</stamp>
+        <version>localhost+210406205949+2LOocY</version>
+        <hidden>0</hidden>
+        <timecreated>1617742789</timecreated>
+        <timemodified>1617742789</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>1</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="1">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Бла бла бла&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Мынандай такырып болган сен дурыс белгиледин&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="2">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Бла бла бла2&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Мынандай такырып кайталау керек онда&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="3">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;фывыфвыфвы&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;йцуцйуцйуцй&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2">
+        <parent>0</parent>
+        <name>Математика</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Математика сурак анау мынау 2&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;Четам СаламАлейкум&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210406210134+fxtbWb</stamp>
+        <version>localhost+210406210134+oXiWjp</version>
+        <hidden>0</hidden>
+        <timecreated>1617742894</timecreated>
+        <timemodified>1617742894</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>2</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс ответ&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Значит сен красава&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="6">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс емес&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Уродец =)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;фывыфвыф&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;123&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="8">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;равпавпав&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;йцук&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="2">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3">
+        <parent>0</parent>
+        <name>Физика</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Физика га байланысты сурак крч&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;саламАлейкум бля&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210406210328+3TLOyA</stamp>
+        <version>localhost+210406210328+KTrMCU</version>
+        <hidden>0</hidden>
+        <timecreated>1617743008</timecreated>
+        <timemodified>1617743008</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>3</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс мынау красава&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="10">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс емес&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Мааал&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="11">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;фывыфвфы&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;фывфыв&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="12">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;ывавыа&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;йуцйуцй&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4">
+        <parent>0</parent>
+        <name>Физика</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Физика сурак крч 2&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;фывыфвыфвыф&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210406210529+nw5tOh</stamp>
+        <version>localhost+210406210529+DZejA1</version>
+        <hidden>0</hidden>
+        <timecreated>1617743129</timecreated>
+        <timemodified>1617743129</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>4</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурысы&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс жауап мынау сабаккой&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="14">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс емес&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Мал&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="15">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;фывфыв&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;фывфы&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="16">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;ывавыа&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;ЫФВФЫ&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="4">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="5">
+        <parent>0</parent>
+        <name>Биология</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Биология бла бла 1&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;фывыфвы&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210406210858+DkxxiF</stamp>
+        <version>localhost+210406210858+tMqxb5</version>
+        <hidden>0</hidden>
+        <timecreated>1617743338</timecreated>
+        <timemodified>1617743338</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>5</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="17">
+              <answertext>Дурысы осы</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс вариант&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="18">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Дурыс емесы&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Мынауын кемейди&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="5">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="6">
+        <parent>0</parent>
+        <name>Биология</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Биология бла бла 2&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;фывыфвфы&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210406211038+IQfFTD</stamp>
+        <version>localhost+210406211038+LyhSOE</version>
+        <hidden>0</hidden>
+        <timecreated>1617743438</timecreated>
+        <timemodified>1617743438</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>6</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="19">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Мынау дурысы болады балам&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;ХОРООШ&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="20">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Мынау дурыс емес бауырым&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Бла бла бла&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="6">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="7">
+        <parent>0</parent>
+        <name>Множественный выбор</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 13.6px;"&gt;Множественный выбор&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;span style="font-size: 13.6px;"&gt;Множественный выборМножественный выбор&lt;/span&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 13.6px;"&gt;Множественный выбор&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;span style="font-size: 13.6px;"&gt;Множественный выборСАЛАЛАЛАМ&lt;/span&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>2.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210412163916+IiUrGg</stamp>
+        <version>localhost+210412163916+v2o724</version>
+        <hidden>0</hidden>
+        <timecreated>1618245556</timecreated>
+        <timemodified>1618245556</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>9</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="21">
+              <answertext>1111111</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback>111111ййц</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="22">
+              <answertext>222222</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;2222&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="23">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;ываыавы&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="7">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>1</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="8">
+        <parent>0</parent>
+        <name>SingleChoice</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 13.6px;"&gt;SingleChoice&amp;nbsp;&lt;img src="@@PLUGINFILE@@/BK%20Shots.jpg" alt="картинка" width="40" height="24" class="img-fluid atto_image_button_middle"&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210412172707+WKXO2I</stamp>
+        <version>localhost+210412172707+rIrVVz</version>
+        <hidden>0</hidden>
+        <timecreated>1618248427</timecreated>
+        <timemodified>1618248427</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>10</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="24">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;123456&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="25">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;45678&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;йцуке&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="8">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>1</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="9">
+        <parent>0</parent>
+        <name>MultipleChoice</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 13.6px;"&gt;MultipleChoicesadsadsa&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;dsad&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>2.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210412173136+cBHscF</stamp>
+        <version>localhost+210412173136+FQBWyp</version>
+        <hidden>0</hidden>
+        <timecreated>1618248696</timecreated>
+        <timemodified>1618248696</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>11</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="26">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Right&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="27">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Right too&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="28">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;wrong&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="9">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="10">
+        <parent>0</parent>
+        <name>TestBlya</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 13.6px;"&gt;TestBlya&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>localhost+210415170612+qetUU5</stamp>
+        <version>localhost+210415173941+jTmFcz</version>
+        <hidden>0</hidden>
+        <timecreated>1618506372</timecreated>
+        <timemodified>1618508381</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="29">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;asdsa&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;a&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="30">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;asdsa&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="10">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Ваш ответ верный.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Ваш ответ частично правильный.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Ваш ответ неправильный.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="11">
+        <parent>0</parent>
+        <name>Арифметика</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;А+Б=&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p dir="ltr" style="text-align: left;"&gt;Отзыв какойто&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>0.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>description</qtype>
+        <length>0</length>
+        <stamp>localhost+210416190727+EEjcKy</stamp>
+        <version>localhost+210416190727+GgzrZY</version>
+        <hidden>0</hidden>
+        <timecreated>1618600047</timecreated>
+        <timemodified>1618600047</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <idnumber>14</idnumber>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="9">
+    <name>top</name>
+    <contextid>41</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>11</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210414113336+CXJ1Vc</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="10">
+    <name>По умолчанию для йцуц</name>
+    <contextid>41</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>11</contextinstanceid>
+    <info>Категория по умолчанию для общих вопросов в контексте «йцуц».</info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210414113336+f6WXim</stamp>
+    <parent>9</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="11">
+    <name>top</name>
+    <contextid>51</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>12</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210415163811+OoacJh</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="12">
+    <name>По умолчанию для Attempt_2</name>
+    <contextid>51</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>12</contextinstanceid>
+    <info>Категория по умолчанию для общих вопросов в контексте «Attempt_2».</info>
+    <infoformat>0</infoformat>
+    <stamp>localhost+210415163811+bgYE3j</stamp>
+    <parent>11</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>
